@@ -1,0 +1,190 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700;800;900&display=swap');
+body h1 h2 h3 h4 h5 h6 p span button input{
+	font-family: 'Playfair Display', serif;
+}
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.header{
+	width: 100%;
+	display: flow-root;
+}
+.container{
+	width: 80%;
+	margin: 0px auto;
+}
+.navbox{
+	width: 100%;
+	float: left;
+	padding: 48px 0px;
+}
+.logo{
+	width: 20%;
+	float: left;
+}
+.menu{
+	width: 80%;
+	float: left;
+	text-align: right;
+}
+a{
+	text-decoration: none;
+	color: black;
+}
+.menu ul li{
+	list-style: none;
+	display: inline-block;
+	padding-left: 100px;
+}
+.menu ul li a{
+	color: #b4ad9e;
+}
+.banner{
+	width: 100%;
+	display: flow-root;
+}
+.banner-box{
+	width: 100%;
+	float: left;	
+}
+.banner-box img{
+	width: 100%;
+}
+.text{
+	margin-top: 10px;
+	padding: 50px;
+}
+.text-area p{
+	margin: 15px 15px;
+}
+.p{
+	color: #b4ad9e;
+}
+.text-area h1{
+	padding: 10px;
+}
+
+
+.body-contant{
+	width: 100%;
+	display: flow-root;
+}
+.content{
+	padding: 60px;
+}
+.content1{
+	float: left;
+	width: 87%;
+    padding: 68px;
+}
+
+.content2{
+	width: 48%;
+	float: left;
+}
+.content3{
+	width: 48%;
+	float: right;
+}
+.content2 p{
+	margin: 20px 0px;
+}
+.content2 img{
+	width: 100%;
+}
+.pp{
+	color: #b4ad9e;
+}
+.content3 p{
+	margin: 20px 0px;
+}
+.conten3 .pp{
+	color:20px 0px;
+}
+.content3 img{
+	width: 100%;
+}
+
+.sign{
+	width: 100%;
+	display: flow-root;
+	background: #f0f0f0;
+	padding: 70px auto;
+	text-align: center;
+}
+.form{
+
+    padding: 30px;
+    margin: 50px;
+}
+.form input{
+	margin: 50px;
+	padding: 10px 15px;
+	width: 30%;
+	border: none;
+	border-bottom-style: solid;
+	outline: none;
+	position: relative;
+	background: transparent;
+}
+.form form i{
+	position: absolute;
+    right: 424px;
+    top: 2650px;
+}
+.lode{
+	width: 100%;
+	text-align: center;
+	padding: 10px auto;
+	margin: 30px auto;
+}
+.lode button{
+	padding: 10px 20px;
+	margin: 50px auto;
+	cursor: pointer;
+	background: transparent;
+	border: none;
+	border: 1px solid black;
+	outline: none;
+}
+.flow{
+	width: 100%;
+	display: flow-root;
+	background: #f0f0f0;
+}
+.form{
+    width: 100%;
+    float:left;
+}
+.term{
+	width: 20%;
+	float: left; 
+	text-align: left;
+}
+.term a{
+	padding: 10px 5px;
+	color: black;
+}
+.mid {
+	width:30;
+	float: left;
+}
+.mid a{
+	color: black;
+}
+.icon{
+	width: 30%;
+	float: right;
+	text-align: right;
+	padding: 10px auto;
+}
+.icon ul li{
+	list-style: none;
+	display: inline-block; 
+	padding: 0px 5px;
+}
+
+
+
+
